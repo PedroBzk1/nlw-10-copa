@@ -34,10 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Calendário da Copa do Mundo de Futebol 2022
 
-## 💻 Demonstração
-
-https://wsminelli.github.io/rocketseat-nlw-copa-2022/
-
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através do [link no Figma](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
